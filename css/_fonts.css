@@ -1,0 +1,35 @@
+/* Lexend */
+@font-face {
+  font-family: 'Lexend';
+  src: url(../fonts/Lexend/Lexend-Regular.ttf);
+  font-weight: 400; /* Regular */
+}
+
+@font-face {
+  font-family: 'Lexend';
+  src: url(../fonts/Lexend/Lexend-Medium.ttf);
+  font-weight: 500; /* Medium */
+}
+
+@font-face {
+  font-family: 'Lexend';
+  src: url(../fonts/Lexend/Lexend-SemiBold.ttf);
+  font-weight: 600; /* SemiBold */
+}
+/* Lexend */
+
+/* IndieFlower */
+@font-face {
+  font-family: 'IndieFlower';
+  src: url(../fonts/IndieFlower/IndieFlower-Regular.ttf);
+  font-weight: 400; /* Regular */
+}
+/* IndieFlower */
+
+/* FuturaPT */
+@font-face {
+  font-family: 'FuturaPT';
+  src: url(../fonts/FuturaPT/FuturaPT-Medium.ttf);
+  font-weight: 500; /* Medium */
+}
+/* FuturaPT */
